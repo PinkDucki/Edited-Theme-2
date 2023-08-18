@@ -2,8 +2,6 @@
 
 /* I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. */
 
-wrapper-1_HaEi{width:var(--server-listing-width)}.scrollerWrap-1IAIlv{width:calc(var(--server-listing-width) + 6px)}
-
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
@@ -71,7 +69,7 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-avatar-list: 32px;
 --dplus-icon-avatar-profile: 80px;
 
---dplus-icon-server-sidebar: 126px;
+--dplus-icon-server-sidebar: 62px;
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
