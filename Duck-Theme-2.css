@@ -7,7 +7,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://media.discordapp.net/attachments/921391690802159636/1142055973553442967/IMG_9076.jpg?width=477&height=675);
+  --dplus-backdrop: url(https://cdn.discordapp.com/attachments/921391690802159636/1144504749702512720/Untitled-1_upscayl_4x_realesrgan-x4plus.png?ex=6544861c&is=6532111c&hm=aba31e1bec81dd47f7f714f52301fa709ea602130e7d9020f02f9dc039b1b500&);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -75,6 +75,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
+--dplus-icon-home-dark: url(https://cdn.discordapp.com/attachments/921391690802159636/1144519367422398524/discord_icon_thing.png?ex=654493b9&is=65321eb9&hm=dbd8a1792b4c61bc2837d90bf78d18b824c433c46820f09764f63b5e19748cd3&);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
